@@ -20,7 +20,7 @@ FarmTrust-Express-Server/
 │   └── settingsRoutes.js
 ├── index.js
 └── README.md
-=======
+ 
 # FamTrust Backend API
 
 ## Project Overview
